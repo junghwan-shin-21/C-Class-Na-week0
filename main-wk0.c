@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-    printf("Hello, GitHub Codespaces! - Na Week0\n");
+    printf("Hello, C Programming Class!\n");
     return 0;
 }
